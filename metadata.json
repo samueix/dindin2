@@ -1,0 +1,6 @@
+{
+  "name": "Dindin's Gourmet",
+  "description": "Premium landing page for Dindin's Gourmet with interactive 3D scroll animations, Bento Grid flavors, and integrated WhatsApp cart ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
